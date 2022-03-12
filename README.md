@@ -44,3 +44,20 @@ Z &= \frac{1}{\sum_{i=1}^{K}\frac{1}{\aleph^{CH} - V_i}} \\
 \end{align*}
 ](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Aif+%5Cquad+V_i+%26%3E+%5Caleph%5E%7BCH%7D%3A+%5C%5C%0A%5Cqquad+V_i+%26%3D+V_i+-+max%28V_i%29+%2B+%5Caleph%5E%7BCH%7D+-+%5Cepsilon++%5C%5C%0AZ+%26%3D+%5Cfrac%7B1%7D%7B%5Csum_%7Bi%3D1%7D%5E%7BK%7D%5Cfrac%7B1%7D%7B%5Caleph%5E%7BCH%7D+-+V_i%7D%7D+%5C%5C%0A%5Crho_%7Bi%7D%5E%7BZ%7D+%26%3D+%5Cfrac%7BZ%7D%7B%5Caleph+-+V_i%7D%0A%5Cend%7Balign%2A%7D%0A)
 
+# 結果
+定常環境におけるregretの推移
+
+<img width="654" alt="スクリーンショット 2022-03-12 13 31 50" src="https://user-images.githubusercontent.com/95354321/158003729-2199c846-fada-4280-89ab-405caa7e7145.png">
+
+<img width="540" alt="スクリーンショット 2022-03-12 13 32 36" src="https://user-images.githubusercontent.com/95354321/158003751-a38dd1c5-fa70-440d-90c0-2359bd5c3eff.png">
+
+# 引用文献
+* [加藤 21] 加藤暦雄，甲野祐，高橋達二：満足化方策における
+非満足均衡を用いた確率的方策の検証，2021 年度 人工知
+能学会全国大会 (第 35 回) 論文集，(2021).
+* [甲野 18] 甲野祐，高橋達二：満足化を通じた最適な自律探
+索，2018 年度 人工知能学会全国大会 (第 32 回) 論文集，
+(2018)．
+* [高橋 16] 高橋達二，甲野祐，浦上大輔：認知的満足化 限定合理
+性の強化学習における効用，人工知能学会論文誌，31(6)，
+AI30-M-1-11，(2016).
