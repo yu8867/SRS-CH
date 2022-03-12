@@ -45,6 +45,7 @@ Z &= \frac{1}{\sum_{i=1}^{K}\frac{1}{\aleph^{CH} - V_i}} \\
 ](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0Aif+%5Cquad+V_i+%26%3E+%5Caleph%5E%7BCH%7D%3A+%5C%5C%0A%5Cqquad+V_i+%26%3D+V_i+-+max%28V_i%29+%2B+%5Caleph%5E%7BCH%7D+-+%5Cepsilon++%5C%5C%0AZ+%26%3D+%5Cfrac%7B1%7D%7B%5Csum_%7Bi%3D1%7D%5E%7BK%7D%5Cfrac%7B1%7D%7B%5Caleph%5E%7BCH%7D+-+V_i%7D%7D+%5C%5C%0A%5Crho_%7Bi%7D%5E%7BZ%7D+%26%3D+%5Cfrac%7BZ%7D%7B%5Caleph+-+V_i%7D%0A%5Cend%7Balign%2A%7D%0A)
 
 # 結果
+結果として定常環境において方策SRSに対して動的更新を適用することが可能であることがわかった。また他の方策と同等の成績が得られたことから、方策SRSと方策RS-CHの両方の性質を持った方策であると考えられる。<br><br>
 定常環境におけるregretの推移
 
 <img width="654" alt="スクリーンショット 2022-03-12 13 31 50" src="https://user-images.githubusercontent.com/95354321/158003729-2199c846-fada-4280-89ab-405caa7e7145.png">
